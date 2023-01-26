@@ -8,7 +8,7 @@
     "npm": "8"
   },
   "scripts": {
-    "test": "mocha test.js"
+    "test": "mocha test.js -b"
   },
   "repository": {
     "type": "git",
